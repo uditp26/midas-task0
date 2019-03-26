@@ -2,4 +2,4 @@
 
 This repository consists of two branches:
         a) Python Problem
-        b) NLP Problem
+        b) CV Problem
